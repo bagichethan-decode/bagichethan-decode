@@ -2,8 +2,6 @@
 # 💫 About Me:
  I’m currently working on: Strengthening my DSA skills and building impactful projects  <br>🌱 I’m learning: Java, Data Structures & Algorithms, and Web Development  <br>  I’m open to: Collaborations, hackathons, and open-source contributions  <br>  Actively seeking: Internship opportunities in Software Development  <br>   about: Java, GitHub, and problem-solving : SIH 2025 Grand Finalist 
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chethanlbagi)
