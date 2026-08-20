@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./github-banner.png" width="100%">
+</div>
+
 ## Hi, I'm chethan 👋
 # 💫 About Me:
  I’m currently working on: Strengthening my DSA skills and building impactful projects  <br>🌱 I’m learning: Java, Data Structures & Algorithms, and Web Development  <br>  I’m open to: Collaborations, hackathons, and open-source contributions  <br>  Actively seeking: Internship opportunities in Software Development  <br>   about: Java, GitHub, and problem-solving : SIH 2025 Grand Finalist 
