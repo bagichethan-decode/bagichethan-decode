@@ -4,7 +4,11 @@
 
 ## Hi, I'm chethan 👋
 # 💫 About Me:
- I’m currently working on: Strengthening my DSA skills and building impactful projects  <br>🌱 I’m learning: Java, Data Structures & Algorithms, and Web Development  <br>  I’m open to: Collaborations, hackathons, and open-source contributions  <br>  Actively seeking: Internship opportunities in Software Development  <br>   about: Java, GitHub, and problem-solving : SIH 2025 Grand Finalist 
+ I’m currently working on: Strengthening my DSA skills and building impactful projects
+ <br> I’m learning: Java, Data Structures & Algorithms, and Web Development 
+ <br> I’m open to: Collaborations, hackathons, and open-source contributions 
+ <br> Actively seeking: Internship opportunities in Software Development 
+ <br> about: Java, GitHub, and problem-solving : SIH 2025 Grand Finalist 
 
 ## 🌐 Socials:
 
@@ -15,6 +19,7 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bagichethan-decode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bagichethan-decode&theme=dark&hide_border=false)<br/>
