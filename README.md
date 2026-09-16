@@ -35,51 +35,14 @@
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-
+---
 
 ---
 
-## 🖥️ `chethan.dev`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Full-Stack+Development;Building+Projects+That+Solve+Real+Problems;Exploring+AI%2C+Backend+%26+System+Design;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     DEVELOPER PROFILE                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  USER        : Chethan Lakshman Bagi                        │
-│  ROLE        : Software Engineer in Progress               │
-│  LOCATION    : Bengaluru, India                             │
-│                                                             │
-│  PRIMARY     : Java                                         │
-│  CURRENT     : Data Structures & Algorithms                 │
-│  BUILDING    : Full-Stack + AI Systems                      │
-│                                                             │
-│  ─────────────────────────────────────────────────────────  │
-│                                                             │
-│  STATUS      : ● BUILDING                                   │
-│  MODE        : LEARN → BUILD → SHIP                         │
-│                                                             │
-│  2026 OBJECTIVE                                              │
-│  ├── Master DSA                                             │
-│  ├── Build production-ready projects                        │
-│  ├── Contribute to open source                              │
-│  └── Become a stronger Software Engineer                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**bagichethan-decode/bagichethan-decode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+</p>
