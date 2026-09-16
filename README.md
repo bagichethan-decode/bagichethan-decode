@@ -4,7 +4,6 @@ i am not getting it you only edit and give it to me
 </div>
 
 ## ABOUT
-## ABOUT
 
 <div align="center">
 
@@ -47,10 +46,8 @@ focused on Java, Data Structures & Algorithms, problem solving, and building mea
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bagichethan-decode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
@@ -62,7 +59,7 @@ focused on Java, Data Structures & Algorithms, problem solving, and building mea
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,git,github,linux" />
 </p>
 
 <p align="center">
