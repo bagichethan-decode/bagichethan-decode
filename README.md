@@ -6,67 +6,34 @@ i am not getting it you only edit and give it to me
 ## ABOUT
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=CHEthan%20LAKSHMAN%20BAGI&fontSize=32&fontAlignY=50&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20DSA&descSize=14&descAlignY=75&animation=fadeIn" width="850"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=750&lines=Learning+to+build+better+systems.;Solving+problems+one+algorithm+at+a+time.;Turning+ideas+into+working+software." />
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### CURRENTLY
-
-Building a strong foundation in **Data Structures & Algorithms** while developing practical software projects.
-
-**Primary focus**
-
-`Java`  
-`DSA`  
-`Problem Solving`  
-`Backend Engineering`
-
-</td>
-
-<td width="50%" valign="top">
-
-### EXPLORING
-
-Working across software engineering and intelligent systems, with a focus on turning concepts into practical implementations.
-
-**Learning**
-
-`Java`  
-`Algorithms`  
-`AI / ML`  
-`Web Technologies`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-Collaborations-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
-  <img src="https://img.shields.io/badge/INTERESTS-Hackathons-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
-  <img src="https://img.shields.io/badge/CONTRIBUTE-Open%20Source-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SIH%202025-Grand%20Finalist-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build.+I+break.+I+understand.+I+build+again.;Curiosity+drives+the+work.;Every+problem+has+a+way+through." />
 </p>
 
 <br>
 
 <p align="center">
-  <sub>
-    SOFTWARE ENGINEERING · ALGORITHMS · PROBLEM SOLVING
-  </sub>
+  I’m <b>Chethan Lakshman Bagi</b>, an Information Science & Engineering student<br>
+  focused on becoming better at the things that matter — understanding problems,<br>
+  writing better code, and building things that actually work.
+</p>
+
+<br>
+
+<p align="center">
+  Currently spending my time strengthening <b>Java</b> and <b>Data Structures & Algorithms</b>,<br>
+  while turning ideas into projects and learning through the process.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIH_2025-Grand_Finalist-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>LEARN  /  BUILD  /  SOLVE  /  REPEAT</sub>
 </p>
 
 ## 🌐 Socials:
