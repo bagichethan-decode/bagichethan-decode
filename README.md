@@ -34,15 +34,24 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ---
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Full-Stack+Development;Building+Projects+That+Solve+Real+Problems;Exploring+AI%2C+Backend+%26+System+Design;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%7C+Data+Structures+%26+Algorithms;Software+Engineering+%7C+Backend+Systems;Artificial+Intelligence+%7C+Machine+Learning;Building+Systems.+Solving+Problems.+Learning+Every+Day." alt="Developer Focus" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="85%"/>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mongodb,mysql,git,github,linux" />
+</p>
+
+<p align="center">
+  <sub>Software Engineering • Algorithms • Intelligent Systems</sub>
+</p>
+
+---
