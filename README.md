@@ -34,6 +34,40 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+
+---
+
+## 🖥️ `chethan.dev`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     DEVELOPER PROFILE                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  USER        : Chethan Lakshman Bagi                        │
+│  ROLE        : Software Engineer in Progress               │
+│  LOCATION    : Bengaluru, India                             │
+│                                                             │
+│  PRIMARY     : Java                                         │
+│  CURRENT     : Data Structures & Algorithms                 │
+│  BUILDING    : Full-Stack + AI Systems                      │
+│                                                             │
+│  ─────────────────────────────────────────────────────────  │
+│                                                             │
+│  STATUS      : ● BUILDING                                   │
+│  MODE        : LEARN → BUILD → SHIP                         │
+│                                                             │
+│  2026 OBJECTIVE                                              │
+│  ├── Master DSA                                             │
+│  ├── Build production-ready projects                        │
+│  ├── Contribute to open source                              │
+│  └── Become a stronger Software Engineer                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **bagichethan-decode/bagichethan-decode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
