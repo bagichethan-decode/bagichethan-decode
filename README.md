@@ -4,37 +4,30 @@ i am not getting it you only edit and give it to me
 </div>
 
 ## ABOUT
+## ABOUT
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build.+I+break.+I+understand.+I+build+again.;Curiosity+drives+the+work.;Every+problem+has+a+way+through." />
-</p>
+<div align="center">
 
-<br>
+<img src="./about-animation.gif" width="850">
 
-<p align="center">
-  I’m <b>Chethan Lakshman Bagi</b>, an Information Science & Engineering student<br>
-  focused on becoming better at the things that matter — understanding problems,<br>
-  writing better code, and building things that actually work.
-</p>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+through+building.;Solving+problems+one+step+at+a+time.;Turning+ideas+into+working+systems." />
 
-<p align="center">
-  Currently spending my time strengthening <b>Java</b> and <b>Data Structures & Algorithms</b>,<br>
-  while turning ideas into projects and learning through the process.
-</p>
+<br><br>
 
-<br>
+I’m <b>Chethan Lakshman Bagi</b>, an Information Science & Engineering student<br>
+focused on Java, Data Structures & Algorithms, problem solving, and building meaningful projects.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SIH_2025-Grand_Finalist-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
-</p>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/SIH_2025-Grand_Finalist-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF">
 
-<p align="center">
-  <sub>LEARN  /  BUILD  /  SOLVE  /  REPEAT</sub>
-</p>
+<br><br>
+
+<sub>LEARN · BUILD · SOLVE · REPEAT</sub>
+
+</div>
 
 ## 🌐 Socials:
 
