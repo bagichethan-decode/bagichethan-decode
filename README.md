@@ -2,13 +2,71 @@
   <img src="./github-banner.png" width="100%">
 </div>
 
-## Hi, I'm chethan 👋
-# 💫 About Me:
- I’m currently working on: Strengthening my DSA skills and building impactful projects
- <br> I’m learning: Java, Data Structures & Algorithms, and Web Development 
- <br> I’m open to: Collaborations, hackathons, and open-source contributions 
- <br> Actively seeking: Internship opportunities in Software Development 
- <br> about: Java, GitHub, and problem-solving : SIH 2025 Grand Finalist 
+## ABOUT
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=CHEthan%20LAKSHMAN%20BAGI&fontSize=32&fontAlignY=50&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20DSA&descSize=14&descAlignY=75&animation=fadeIn" width="850"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=750&lines=Learning+to+build+better+systems.;Solving+problems+one+algorithm+at+a+time.;Turning+ideas+into+working+software." />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### CURRENTLY
+
+Building a strong foundation in **Data Structures & Algorithms** while developing practical software projects.
+
+**Primary focus**
+
+`Java`  
+`DSA`  
+`Problem Solving`  
+`Backend Engineering`
+
+</td>
+
+<td width="50%" valign="top">
+
+### EXPLORING
+
+Working across software engineering and intelligent systems, with a focus on turning concepts into practical implementations.
+
+**Learning**
+
+`Java`  
+`Algorithms`  
+`AI / ML`  
+`Web Technologies`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-Collaborations-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+  <img src="https://img.shields.io/badge/INTERESTS-Hackathons-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+  <img src="https://img.shields.io/badge/CONTRIBUTE-Open%20Source-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIH%202025-Grand%20Finalist-161b22?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    SOFTWARE ENGINEERING · ALGORITHMS · PROBLEM SOLVING
+  </sub>
+</p>
 
 ## 🌐 Socials:
 
@@ -47,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mysql,git,github,linux" />
 </p>
 
 <p align="center">
