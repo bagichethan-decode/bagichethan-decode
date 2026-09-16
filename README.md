@@ -5,28 +5,21 @@ i am not getting it you only edit and give it to me
 
 ## ABOUT
 
-<div align="center">
+<p align="center">
+  <img src="./about-animation.gif" width="460">
+</p>
 
-<img src="./about-animation.gif" width="850">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+through+building.;Solving+problems+one+step+at+a+time.;Turning+ideas+into+working+systems." />
-
-<br><br>
-
-I’m <b>Chethan Lakshman Bagi</b>, an Information Science & Engineering student<br>
-focused on Java, Data Structures & Algorithms, problem solving, and building meaningful projects.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SIH_2025-Grand_Finalist-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF">
-
-<br><br>
-
-<sub>LEARN · BUILD · SOLVE · REPEAT</sub>
-
-</div>
+<p align="center">
+  <b>Chethan Lakshman Bagi</b>
+  <br>
+  Information Science & Engineering
+  <br><br>
+  Java · Data Structures & Algorithms · Problem Solving
+  <br>
+  Building, experimenting, and learning through real projects.
+  <br><br>
+  <sub>SIH 2025 — GRAND FINALIST</sub>
+</p>
 
 ## 🌐 Socials:
 
