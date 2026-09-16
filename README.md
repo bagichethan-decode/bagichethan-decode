@@ -40,9 +40,7 @@ i am not getting it you only edit and give it to me
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bagichethan-decode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=bagichethan-decode&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%7C+Data+Structures+%26+Algorithms;Software+Engineering+%7C+Backend+Systems;Artificial+Intelligence+%7C+Machine+Learning;Building+Systems.+Solving+Problems.+Learning+Every+Day." alt="Developer Focus" />
 </p>
