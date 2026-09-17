@@ -4,21 +4,29 @@
 
 ## ABOUT
 
-<p align="center">
-  <img src="./about-animation.gif" width="460">
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Chethan Lakshman Bagi</b>
-  <br>
-  Information Science & Engineering
-  <br><br>
-  Java · Data Structures & Algorithms · Problem Solving
-  <br>
-  Building, experimenting, and learning through real projects.
-  <br><br>
-  <sub>SIH 2025 — GRAND FINALIST</sub>
-</p>
+<img src="./about-animation.gif" width="420">
+
+<br>
+
+### CHETHAN LAKSHMAN BAGI
+
+`INFORMATION SCIENCE & ENGINEERING`
+
+<br>
+
+**JAVA** &nbsp;·&nbsp; **DSA** &nbsp;·&nbsp; **PROBLEM SOLVING**
+
+<br><br>
+
+> **Learn. Build. Solve. Repeat.**
+
+<br>
+
+`SIH 2025` &nbsp; **GRAND FINALIST**
+
+</div>
 
 ## Socials
 
