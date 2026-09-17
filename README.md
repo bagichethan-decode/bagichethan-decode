@@ -1,4 +1,3 @@
-i am not getting it you only edit and give it to me
 <div align="center">
   <img src="./github-banner.png" width="100%">
 </div>
