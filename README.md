@@ -4,30 +4,15 @@
 
 ## ABOUT
 
-<div align="center">
+I’m Chethan Lakshman Bagi, an Information Science & Engineering student at East West Institute of Technology, Bengaluru.
 
-<img src="./about-animation.gif" width="420">
+Currently focused on strengthening Java, Data Structures & Algorithms, and problem-solving skills.
 
-<br>
+I learn by building projects, participating in hackathons, and working on problems that require practical implementation.
 
-### CHETHAN LAKSHMAN BAGI
+I’m currently looking for opportunities to apply my skills through internships, collaborative projects, and open-source contributions.
 
-`INFORMATION SCIENCE & ENGINEERING`
-
-<br>
-
-**JAVA** &nbsp;·&nbsp; **DSA** &nbsp;·&nbsp; **PROBLEM SOLVING**
-
-<br><br>
-
-> **Learn. Build. Solve. Repeat.**
-
-<br>
-
-`SIH 2025` &nbsp; **GRAND FINALIST**
-
-</div>
-
+SIH 2025 Grand Finalist.
 ## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chethanlbagi)
