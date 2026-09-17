@@ -1,4 +1,4 @@
-<div align="center">
+i am not getting from where to delete and add now <div align="center">
   <img src="./github-banner.png" width="100%">
 </div>
 
