@@ -17,8 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-bagi-5952a0347/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagichethan@gmail.com)
 
-## Tech Stack
-
 
 <p align="center">
   <img src="./boy-counter.png" width="650">
