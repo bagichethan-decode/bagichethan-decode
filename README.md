@@ -18,40 +18,35 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagichethan@gmail.com)
 
 ## Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/C-18181B?style=flat-square&logo=c&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248"/>
   <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1"/>
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/VS%20Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-18181B?style=flat-square&logo=intellijidea&logoColor=FFFFFF"/>
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-18181B?style=flat-square&logo=intellijidea&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E"/>
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@bagichethan-decode">
+  <img src="./boy-counter.png" width="650">
 </p>
 
 ## GitHub Stats
