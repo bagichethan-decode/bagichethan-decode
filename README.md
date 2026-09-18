@@ -18,9 +18,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagichethan@gmail.com)
 
 ## Tech Stack
-
-## Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB"/>
@@ -51,6 +48,10 @@
   <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E"/>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@bagichethan-decode">
 </p>
 
 ## GitHub Stats
