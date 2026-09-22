@@ -11,16 +11,12 @@
 > Exploring problem solving, software development, and AI-driven applications.
 >
 > **SIH 2025 Grand Finalist**
+
 ## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chethanlbagi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-bagi-5952a0347/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagichethan@gmail.com)
-
-
-<p align="center">
-  <img src="./boy-counter.png" width="650">
-</p>
 
 ## GitHub Stats
 
