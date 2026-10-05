@@ -20,8 +20,6 @@
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <img src="./streak.svg" width="495">
 </p>
