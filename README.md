@@ -21,7 +21,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bagichethan-decode&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=bagichethan-decode&show_icons=true&theme=dark&hide_border=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagichethan-decode&theme=github-compact&hide_border=true" width="95%">
 </p>
 
 <p align="center">
