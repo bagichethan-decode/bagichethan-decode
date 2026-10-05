@@ -25,6 +25,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bagichethan-decode&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="495">
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,git,github,linux">
 </p>
 
