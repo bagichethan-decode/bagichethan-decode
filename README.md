@@ -21,11 +21,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile/streak.svg" width="495">
+  <img src="./profile/streak.svg" width="496">
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="495">
+  <img src="./profile/stats.svg" width="496">
 </p>
 
 <p align="center">
